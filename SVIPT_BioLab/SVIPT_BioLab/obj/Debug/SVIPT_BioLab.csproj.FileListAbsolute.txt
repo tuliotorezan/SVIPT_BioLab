@@ -1,0 +1,50 @@
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe.config
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.pdb
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csprojResolveAssemblyReference.cache
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Analisar.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Calibrar.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Conectar.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Form_Main.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.NewSession.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.PleaseWait.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Properties.Resources.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.MapSession.resources
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csproj.GenerateResource.Cache
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.exe
+C:\Users\Biolab\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.pdb
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe.config
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.exe
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.pdb
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.pdb
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csprojResolveAssemblyReference.cache
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Analisar.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Calibrar.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Conectar.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Form_Main.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.NewSession.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.PleaseWait.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Properties.Resources.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.MapSession.resources
+C:\Users\Andrei\Desktop\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csproj.GenerateResource.Cache
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe.config
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.exe
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.pdb
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.exe
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\SVIPT_BioLab.pdb
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csprojResolveAssemblyReference.cache
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Analisar.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Calibrar.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Conectar.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Form_Main.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.NewSession.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.PleaseWait.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.Properties.Resources.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.MapSession.resources
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\obj\Debug\SVIPT_BioLab.csproj.GenerateResource.Cache
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\images\quadradinhoAzul.png
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\images\quadradinhoMarrom.png
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\images\quadradinhoRoxo.png
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\images\quadradinhoTomato.png
+C:\Users\Tulio\Documents\Visual Studio 2015\Projects\SVIPT_BioLab-20170405T203914Z-001\SVIPT_BioLab\SVIPT_BioLab\bin\Debug\images\quadradinhoVerde.png
